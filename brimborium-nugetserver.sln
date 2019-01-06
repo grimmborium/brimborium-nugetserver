@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "brimborium-nugetserver", "brimborium-nugetserver\", "{B2031A49-FE4E-4730-8182-D202370B0263}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1556"
+		Debug.AspNetCompiler.PhysicalPath = "brimborium-nugetserver\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1556\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1556"
+		Release.AspNetCompiler.PhysicalPath = "brimborium-nugetserver\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1556\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1556"
+		SlnRelativePath = "brimborium-nugetserver\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2031A49-FE4E-4730-8182-D202370B0263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2031A49-FE4E-4730-8182-D202370B0263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2894A99-76D7-4B65-ACF8-9D2583A15F6C}
+	EndGlobalSection
+EndGlobal
